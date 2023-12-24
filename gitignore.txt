@@ -1,0 +1,6 @@
+ .gitignore contains the names of all the files that do not need to be uploaded in git and does not need public attention.
+example. secret key file, styling file, user passwords etc.
+
+Listed all the gitignore file for different languages:
+https://github.com/github/gitignore
+
