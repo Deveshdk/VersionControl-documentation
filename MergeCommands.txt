@@ -1,0 +1,10 @@
+Branching Commands:
+
+git branch FeatureBranch     ---- this will create a new branch called FeatureBranch
+git branch    ---- show all the branch
+git checkout FeatureBranch   ---- switching to branch FeatureBranch
+git merge FeatureBranch  --- merge featurebranch to main
+:q!    --- to close the Vim
+
+
+--------------------------------

@@ -1,5 +1,10 @@
+-------------------------------
+Commit, Clone & Connect to Remote:
+
 git remote add origin <Remote Repository URL>  ---- only once you add remote 
 git remote -v     ---- If you are trying to perform operations that involve remotes (like git pull or git push)
 git push -u origin main
 git remote remove origin -- will remove the remote origin
 git clone url    --- to clone any repository into your local
+
+--------------------------------
