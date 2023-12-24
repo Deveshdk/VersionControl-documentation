@@ -4,9 +4,10 @@ This is the first chapter and it start with the basic git commands.
 mkdir VersionControl -- to create a directory
 cd VersionControl  -- change directory
 touch chapter1.txt -- create a new file with name chapter1.txt
-git init  --- to initialise a local git repository. If this command is not run,
-the following directory will not be recognized as a git repository and no git command will work.
+git init  --- to initialise a local git repository. If this command is not run,the following directory will not be recognized as a git repository and no git command will work.
 ls -a   -- will give all the files including hidden files.
 git status -- will give the untracked files which is yet to be committed.
 git add chapter1.txt  -- this will add the chapter1.txt file as staged or tracked and now is ready to be committed.
 git commit -m "Initial Commit"   --- to commit the changes.
+git log  -- returns the commit details
+git add .    --- all the untracked files will be tracked
