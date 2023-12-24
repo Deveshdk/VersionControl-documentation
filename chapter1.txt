@@ -11,4 +11,5 @@ git add chapter1.txt  -- this will add the chapter1.txt file as staged or tracke
 git commit -m "Initial Commit"   --- to commit the changes.
 git log  -- returns the commit details
 git add .    --- all the untracked files will be tracked
+git diff chapter1.txt  --- will show the difference between the modified version and the previous commit.
 git checkout chapter1.txt  ---  will update the file to the previous commit.
