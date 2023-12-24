@@ -1,0 +1,2 @@
+git remote add origin <Remote Repository URL>  
+git push -u origin main
