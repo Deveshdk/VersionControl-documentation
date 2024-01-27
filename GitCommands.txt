@@ -6,5 +6,9 @@ git remote -v     ---- If you are trying to perform operations that involve remo
 git push -u origin main
 git remote remove origin -- will remove the remote origin
 git clone url    --- to clone any repository into your local
+git remote show origin   -- to show the connected remote repository
+git remote -v  -- to get remote details
+git config --list   -- to get the configuration of the remote repository  eg. credential n all
+git log ---To see the commit history, including the commit hashes, commit messages, and more
 
 --------------------------------
